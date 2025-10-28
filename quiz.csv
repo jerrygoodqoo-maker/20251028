@@ -1,0 +1,7 @@
+﻿question,optionA,optionB,optionC,optionD,answer
+p5.js是什麼？,一個繪圖軟體,一個JavaScript函式庫,一種咖啡,一種滑鼠,B
+在p5.js中，哪個函數只會執行一次？,draw(),loop(),setup(),preload(),C
+哪種顏色表示純紅色？,"rgb(255,0,0)","rgb(0,255,0)","rgb(0,0,255)","rgb(255,255,0)",A
+如何在p5.js中畫一個圓形？,rect(x,y,w,h),circle(x,y,d),line(x1,y1,x2,y2),triangle(x1,y1,x2,y2,x3,y3),B
+'preload()'函數的用途是什麼？,在setup前載入媒體檔案,設定畫布大小,繪製動畫,處理滑鼠點擊,A
+'background(0)'會將背景設為甚麼顏色？,白色,灰色,黑色,透明,C
